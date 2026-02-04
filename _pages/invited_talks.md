@@ -10,4 +10,4 @@ Workshop on Continuous and Dynamic Optimization, University of O'Higgins, Rancag
 Optimization Workshop: Theory, Algorithms, and Applications, University of Los Andes, Bogota, Colombia - December 2024
 
 **Weakly convex Douglas-Rachford splitting via descent of proximal merit functions** [slides](https://drive.google.com/file/d/1gIOOgOjbgmrmKZWrObTcWlFwaZdBmpld/view?usp=sharing)<br>
-Mathematical Optimization meets Energy Industry}, Instituto de Matemática Pura e Aplicada (IMPA), Rio de Janeiro, Brazil - June 2023
+Mathematical Optimization meets Energy Industry, Instituto de Matemática Pura e Aplicada (IMPA), Rio de Janeiro, Brazil - June 2023
