@@ -9,7 +9,7 @@
 - EUROPT 2025 - University of Southampton, UK - July 2025
 
 **First-order splitting methods for decentralised optimisation** [slides](https://drive.google.com/file/d/1CD2LYn8UbnTcRG6divrFiYkOY5Z4wpQm/view?usp=sharing)
-- ICCOPT 2025 - University of Southern California, US - July 2025
+- ICCOPT 2025 - University of Southern California, Los Angeles, US - July 2025
 - CTAC 2024 - Monash University, Melbourne, Australia - November 2024
 - Optimization Seminar - Johns Hopkins University, Baltimore MD, US - July 2024
 - EUROPT 2024 - Lund University, Sweden - June 2024
