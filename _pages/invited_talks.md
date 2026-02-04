@@ -1,6 +1,6 @@
 # Invited talks
 
-**First-order splitting methods for decentralised optimisation**
+**First-order splitting methods for decentralised optimisation**\
 ANZIAM SigmaOpt Workshop, Coffs Harbour, Australia - February 2025
 
 **Variational analysis for weakly convex optimisation: theory and algorithms**
