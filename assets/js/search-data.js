@@ -39,11 +39,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "teachings-dm",
-          title: 'Dm',
+          section: "News",},{id: "teachings-",
+          title: '',
           description: "",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/DM.html";
+              window.location.href = "/teachings/data-science-fundamentals.html";
             },},{id: "teachings-introduction-to-machine-learning",
           title: 'Introduction to Machine Learning',
           description: "This course provides an introduction to machine learning concepts, algorithms, and applications. Students will learn about supervised and unsupervised learning, model evaluation, and practical implementations.",
