@@ -37,3 +37,10 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* hide the ctrl+k search bar UI */
+.search-bar,
+.quick-search,
+#ctrl-k-search {
+  display: none !important;
+}
