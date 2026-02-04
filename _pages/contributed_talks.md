@@ -23,13 +23,13 @@
 - WOMBAT 2024 - University of Sydney, Australia - December 2024
 - Optimisation Seminar - University of Melbourne, Australia - November 2023
 
-**Proximal splitting methods avoid strict saddle points of weakly convex problems** [slides](https://drive.google.com/file/d/1plfr-82Tvbcd3OxL-F8WFdfFn6nM1ivs/view?usp=sharing)
+**Proximal splitting methods avoid strict saddle points of weakly convex problems** [slides](https://drive.google.com/file/d/1plfr-82Tvbcd3OxL-F8WFdfFn6nM1ivs/view?usp=sharing)\
 ISMP 2024 - Montreal, Canada - July 2024
 
-**Why optimisation methods find the solutions we want?** [slides](https://drive.google.com/file/d/1qFiidGjWBAUD-3wC9CrzgfsJAX6TF_Bw/view?usp=sharing)
+**Why optimisation methods find the solutions we want?** [slides](https://drive.google.com/file/d/1qFiidGjWBAUD-3wC9CrzgfsJAX6TF_Bw/view?usp=sharing)\
 Early Career Research Summit 2024 - University of Melbourne, Australia - February 2024
 
-**A dual embedded forward-backward scenario decomposition method for convex stochastic programming** [slides](https://drive.google.com/file/d/1byXXYruWI_fl4bW9KSjxVaKl4QQqrQAD/view?usp=sharing)
+**A dual embedded forward-backward scenario decomposition method for convex stochastic programming** [slides](https://drive.google.com/file/d/1byXXYruWI_fl4bW9KSjxVaKl4QQqrQAD/view?usp=sharing)\
 ICSP 2023 - University of California, Davis CA, US - July 2023
 
 **Weakly convex Douglas-Rachford splitting via descent of proximal merit functions** [slides](https://drive.google.com/file/d/110lW-spYWpJcPg-Pu4rBmGWrK18Nx_n4/view?usp=sharing)
@@ -51,6 +51,3 @@ ICSP 2023 - University of California, Davis CA, US - July 2023
 - ICCOPT 2019 - TU Berlin, Germany - August 2019
 - ICSP 2019 - NTNU, Trondheim, Norway - July 2019
 - XII Brazilian Workshop on Continuous Optimization - Foz do Iguaçu, Brazil - July 2018
-
-
-
