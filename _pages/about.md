@@ -20,4 +20,4 @@ announcements:
 
 ---
 
-My work focuses on optimisation theory and algorithms with applications in machine learning and operations research. I design decomposition methods for structured optimisation problems, namely, methods that exploit favourable structures by breaking large-scale models into smaller, more tractable pieces, and leverage on the underlying mathematical properties to recover proper solutions. I draw tools from nonlinear programming, variational analysis, convex optimisation, and stochastic programming.
+My work focuses on optimisation theory and algorithms with applications in machine learning and operations research. I design and analyse decomposition methods for structured optimisation problems, namely, methods that exploit favourable structures by breaking large-scale models into smaller, more tractable pieces, and leverage on the underlying mathematical properties to recover proper, fitting solutions. I draw tools from nonlinear programming, variational analysis, convex optimisation, and stochastic programming.
