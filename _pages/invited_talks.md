@@ -1,3 +1,5 @@
+# Invited talks
+
 **First-order splitting methods for decentralised optimisation**
 ANZIAM SigmaOpt Workshop, Coffs Harbour, Australia - February 2025
 
