@@ -6,7 +6,10 @@ email: f262900@dac.unicamp.br # your email address
 #inspirehep_id: # Inspire HEP author ID
 #rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: PPBV5R8AAAAJ # your Google Scholar ID
+research_gate_profile: Felipe-Atenas
 orcid_id: 0000-0002-8577-697X
+dblp_url: https://dblp.org/pid/339/9169.html
+linkedin_username: felipe-atenas-562838243
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 #custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
