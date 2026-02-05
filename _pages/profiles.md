@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Talks
-description: 
+description: Below you can find my research talks with their respective slides.
 nav: true
 nav_order: 7
 
