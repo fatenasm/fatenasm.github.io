@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-02-06'
+  last_updated: '2026-02-09'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
-    citations: 37
+    citations: 38
     title: A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods
     year: '2023'
   PPBV5R8AAAAJ:IjCSPb-OGe4C:
@@ -38,7 +38,7 @@ papers:
     title: A Bundle-Like Progressive Hedging Algorithm
     year: '2023'
   PPBV5R8AAAAJ:qjMakFHDy7sC:
-    citations: 8
+    citations: 9
     title: Weak convexity and approximate subdifferentials
     year: '2024'
   PPBV5R8AAAAJ:ufrVoPGSRksC:
