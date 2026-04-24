@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-03-25'
+  last_updated: '2026-04-24'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
-    citations: 40
+    citations: 42
     title: A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods
     year: '2023'
   PPBV5R8AAAAJ:IjCSPb-OGe4C:
@@ -34,7 +34,7 @@ papers:
     title: Variable Stepsize Distributed Forward-Backward Splitting Methods as Relocated Fixed-Point Iterations
     year: '2026'
   PPBV5R8AAAAJ:d1gkVwhDpl0C:
-    citations: 2
+    citations: 3
     title: A Bundle-Like Progressive Hedging Algorithm
     year: '2023'
   PPBV5R8AAAAJ:qjMakFHDy7sC:
