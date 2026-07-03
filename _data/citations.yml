@@ -1,14 +1,18 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-07-03'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
-    citations: 44
+    citations: 45
     title: A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods
     year: '2023'
   PPBV5R8AAAAJ:IjCSPb-OGe4C:
     citations: 8
     title: "Understanding the Douglas\u2013Rachford splitting method through the lenses of Moreau-type envelopes"
     year: '2025'
+  PPBV5R8AAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: "Proximal decomposition methods for optimization problems with structure= M\xE9todos de decomposi\xE7\xE3o proximal para problemas de otimiza\xE7\xE3o com estrutura"
+    year: '2023'
   PPBV5R8AAAAJ:W7OEmFMy1HYC:
     citations: 4
     title: Relocated Fixed-Point Iterations with Applications to Variable Stepsize Resolvent Splitting
