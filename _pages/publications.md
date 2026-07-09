@@ -18,7 +18,7 @@ nav_order: 2
   [[preprint](https://arxiv.org/abs/2601.15531)]
 
 - **Shadow splitting methods for nonconvex optimisation: epi-approximation, convergence and saddle point avoidance**
-  <u>Felipe Atenas</u>, *arXiv preprint* arXiv:2512.20433, 2025
+  <u>Felipe Atenas</u>, *arXiv preprint* arXiv:2512.20433, 2025\
   [[preprint](https://arxiv.org/abs/2512.20433)]
 
 - **Linear convergence of relocated fixed-point iterations**\
@@ -32,7 +32,7 @@ nav_order: 2
 ### Publications
 
 <ol reversed>
-  <li style="margin-bottom: 5px;"><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
+  <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
     <i>SIAM Journal on Optimization</i>, 2026<br>
     [<a href="https://doi.org/10.1137/21M1465445">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
@@ -52,7 +52,7 @@ nav_order: 2
    <u>Felipe Atenas</u>, Claudia Sagastizábal, Paulo JS Silva, and Mikhail Solodov <br>
     <i>SIAM Journal on Optimization</i> 33(1), 89-115, 2023<br>
     [<a href="https://doi.org/10.1137/21M1465445">publication</a>] [<a href="https://optimization-online.org/?p=18426">preprint</a>]<br></li>
-  <li><strong>A Bundle-Like Progressive Hedging Algorithm</strong><br>
+  <li><strong>A bundle-like progressive hedging algorithm</strong><br>
    <u>Felipe Atenas</u> and Claudia Sagastizábal<br>
     <i>Journal of Convex Analysis</i>, 30(2), 453-479, 2023<br>
     [<a href="https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm">publication</a>] [<a href="https://hal.science/hal-03738298/document">preprint</a>]<br></li>
