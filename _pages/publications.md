@@ -7,6 +7,15 @@ nav: true
 nav_order: 2
 ---
 
+<style>
+  .double-spaced-list li {
+    margin-bottom: 2em; /* Creates the double-space effect between items */
+  }
+  .double-spaced-list li:last-child {
+    margin-bottom: 0; /* Prevents extra spacing at the bottom of the list */
+  }
+</style>
+
 ### Preprints
 
 - **A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka–Łojasiewicz condition**\
@@ -31,11 +40,11 @@ nav_order: 2
 
 ### Publications
 
-<ol reversed>
+<ol reversed class="double-spaced-list">
   <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
     <i>SIAM Journal on Optimization</i>, 2026<br>
-    [<a href="https://doi.org/10.1137/21M1465445">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
+    [<a href="https://doi.org/10.1137/25M1776810">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
   <li><strong>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</strong><br>
    <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam<br> 
     <i>Journal of Global Optimization</i>, 2025<br>
