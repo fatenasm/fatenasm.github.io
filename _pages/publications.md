@@ -23,19 +23,23 @@ nav_order: 2
   (available soon)
 
 - **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
-  <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam, *arXiv preprint* arXiv:2601.15531, 2026\
+  <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
+  *arXiv preprint* arXiv:2601.15531, 2026\
   [[preprint](https://arxiv.org/abs/2601.15531)]
 
 - **Shadow splitting methods for nonconvex optimisation: epi-approximation, convergence and saddle point avoidance**
-  <u>Felipe Atenas</u>, *arXiv preprint* arXiv:2512.20433, 2025\
+  <u>Felipe Atenas</u>\
+  *arXiv preprint* arXiv:2512.20433, 2025\
   [[preprint](https://arxiv.org/abs/2512.20433)]
 
 - **Linear convergence of relocated fixed-point iterations**\
-  <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam, *arXiv preprint* arXiv:2512.12954, 2025\
+  <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam\
+  *arXiv preprint* arXiv:2512.12954, 2025\
   [[preprint](https://arxiv.org/abs/2512.12954)]
 
 - **A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization**\
-  Jan Harold Alcantara and <u>Felipe Atenas</u>, to appear in *MATRIX Annals*\
+  Jan Harold Alcantara and <u>Felipe Atenas</u>\
+  To appear in *MATRIX Annals*\
   [[preprint](https://arxiv.org/abs/2504.07364)]
 
 ### Publications
@@ -43,7 +47,7 @@ nav_order: 2
 <ol reversed class="double-spaced-list">
   <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
-    <i>SIAM Journal on Optimization</i>, 2026<br>
+    <i>SIAM Journal on Optimization</i>, 36(3), 1297-1325, 2026<br>
     [<a href="https://doi.org/10.1137/25M1776810">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
   <li><strong>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</strong><br>
    <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam<br> 
