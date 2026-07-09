@@ -9,7 +9,7 @@ nav_order: 2
 
 <style>
   .double-spaced-list li {
-    margin-bottom: 2em; /* Creates the double-space effect between items */
+    margin-bottom: 1em; /* Creates the space effect between items */
   }
   .double-spaced-list li:last-child {
     margin-bottom: 0; /* Prevents extra spacing at the bottom of the list */
