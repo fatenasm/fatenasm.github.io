@@ -32,16 +32,18 @@ nav_order: 2
 ### Publications
 
 <ol reversed>
-  <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
+  <li style="margin-bottom: 5px;"><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
     <i>SIAM Journal on Optimization</i>, 2026<br>
     [<a href="https://doi.org/10.1137/21M1465445">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
-  <li><b>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</b>\
-   <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam, *Journal of Global Optimization*, 2025\
-   [[publication](https://doi.org/10.1007/s10898-025-01544-y)] [[preprint](https://arxiv.org/abs/2410.15583)]\</li>
-  <li>**Understanding the Douglas–Rachford splitting method through the lenses of Moreau-type envelopes**\
-   <u>Felipe Atenas</u>, *Computational Optimization and Applications* 90, 881–910, 2025\
-   [[publication](https://doi.org/10.1007/s10589-024-00646-9)] [[preprint](https://arxiv.org/abs/2303.16394)]\</li>
+  <li><strong>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</strong><br>
+   <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam<br> 
+    <i>Journal of Global Optimization</i>, 2025<br>
+    [<a href="https://doi.org/10.1007/s10898-025-01544-y">publication</a>] [<a href="https://arxiv.org/abs/2410.15583">preprint</a>]<br></li>
+  <li><strong>Understanding the Douglas–Rachford splitting method through the lenses of Moreau-type envelopes</strong><br>
+   <u>Felipe Atenas</u><br>
+    <i>Computational Optimization and Applications* 90, 881–910</i>, 2025<br>
+    [<a href="https://doi.org/10.1007/s10589-024-00646-9">publication</a>] [<a href="https://arxiv.org/abs/2303.16394">preprint</a>]<br></li>
   <li>**Weak convexity and approximate subdifferentials**\
    Wim Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal, *Journal of Optimization Theory and Applications* 203, 1686–1709, 2024\
    [[publication](https://doi.org/10.1007/s10957-024-02551-x)] [[preprint](https://optimization-online.org/?p=25318)]\</li>
