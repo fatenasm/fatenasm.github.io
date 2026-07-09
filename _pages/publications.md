@@ -42,17 +42,20 @@ nav_order: 2
     [<a href="https://doi.org/10.1007/s10898-025-01544-y">publication</a>] [<a href="https://arxiv.org/abs/2410.15583">preprint</a>]<br></li>
   <li><strong>Understanding the Douglas–Rachford splitting method through the lenses of Moreau-type envelopes</strong><br>
    <u>Felipe Atenas</u><br>
-    <i>Computational Optimization and Applications* 90, 881–910</i>, 2025<br>
+    <i>Computational Optimization and Applications</i> 90, 881–910, 2025<br>
     [<a href="https://doi.org/10.1007/s10589-024-00646-9">publication</a>] [<a href="https://arxiv.org/abs/2303.16394">preprint</a>]<br></li>
-  <li>**Weak convexity and approximate subdifferentials**\
-   Wim Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal, *Journal of Optimization Theory and Applications* 203, 1686–1709, 2024\
-   [[publication](https://doi.org/10.1007/s10957-024-02551-x)] [[preprint](https://optimization-online.org/?p=25318)]\</li>
-  <li>**A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods**\
-   <u>Felipe Atenas</u>, Claudia Sagastizábal, Paulo JS Silva, and Mikhail Solodov. *SIAM Journal on Optimization* 33(1), 89-115, 2023\
-   [[publication](https://doi.org/10.1137/21M1465445)] [[preprint](https://optimization-online.org/?p=18426)]\</li>
-  <li>**A Bundle-Like Progressive Hedging Algorithm**\
-   <u>Felipe Atenas</u> and Claudia Sagastizábal. *Journal of Convex Analysis*, 30(2), 453-479, 2023\
-   [[publication](https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm)] [[preprint](https://hal.science/hal-03738298/document)]\</li>
+  <li><strong>Weak convexity and approximate subdifferentials</strong><br>
+   Wim Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal<br>
+    <i>Journal of Optimization Theory and Applications</i> 203, 1686–1709, 2024<br>
+    [<a href="https://doi.org/10.1007/s10957-024-02551-x">publication</a>] [<a href="https://optimization-online.org/?p=25318">preprint</a>]<br></li>
+  <li><strong>A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods</strong><br>
+   <u>Felipe Atenas</u>, Claudia Sagastizábal, Paulo JS Silva, and Mikhail Solodov <br>
+    <i>SIAM Journal on Optimization</i> 33(1), 89-115, 2023<br>
+    [<a href="https://doi.org/10.1137/21M1465445">publication</a>] [<a href="https://optimization-online.org/?p=18426">preprint</a>]<br></li>
+  <li><strong>A Bundle-Like Progressive Hedging Algorithm</strong><br>
+   <u>Felipe Atenas</u> and Claudia Sagastizábal<br>
+    <i>Journal of Convex Analysis</i>, 30(2), 453-479, 2023<br>
+    [<a href="https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm">publication</a>] [<a href="https://hal.science/hal-03738298/document">preprint</a>]<br></li>
 </ol>
 
 ### PhD Thesis
