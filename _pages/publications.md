@@ -32,10 +32,11 @@ nav_order: 2
 ### Publications
 
 <ol reversed>
-  <li>**Relocated fixed-point iterations with applications to variable stepsize resolvent splitting**\
-   <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam, *SIAM Journal on Optimization*, 2026\
-   [[publication](https://doi.org/10.1137/21M1465445)] [[ePrint (free access)](https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full)]\</li>
-  <li>**A distributed proximal splitting method with linesearch for locally Lipschitz gradients**\
+  <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
+   <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam, <i>SIAM Journal on Optimization</i>, 2026<br>
+    [<a href="https://doi.org/10.1137/21M1465445">publication</a>] 
+   [[publication](https://doi.org/10.1137/21M1465445)] [[ePrint (free access)](https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full)]<br></li>
+  <li><b>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</b>\
    <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam, *Journal of Global Optimization*, 2025\
    [[publication](https://doi.org/10.1007/s10898-025-01544-y)] [[preprint](https://arxiv.org/abs/2410.15583)]\</li>
   <li>**Understanding the Douglas–Rachford splitting method through the lenses of Moreau-type envelopes**\
