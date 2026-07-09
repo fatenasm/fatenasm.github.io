@@ -21,13 +21,13 @@ nav_order: 2
   <u>Felipe Atenas</u>, *arXiv preprint* arXiv:2512.20433, 2025
   [[preprint](https://arxiv.org/abs/2512.20433)]
 
-(8) **Linear convergence of relocated fixed-point iterations**\
-    <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam, *arXiv preprint* arXiv:2512.12954, 2025\
-    [[preprint](https://arxiv.org/abs/2512.12954)]
+- **Linear convergence of relocated fixed-point iterations**\
+  <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam, *arXiv preprint* arXiv:2512.12954, 2025\
+  [[preprint](https://arxiv.org/abs/2512.12954)]
 
-7. **A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization**\
-   Jan Harold Alcantara and <u>Felipe Atenas</u>, to appear in *MATRIX Annals*\
-   [[preprint](https://arxiv.org/abs/2504.07364)]
+- **A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization**\
+  Jan Harold Alcantara and <u>Felipe Atenas</u>, to appear in *MATRIX Annals*\
+  [[preprint](https://arxiv.org/abs/2504.07364)]
 
 ### Publications
 
@@ -43,15 +43,15 @@ nav_order: 2
    <u>Felipe Atenas</u>, *Computational Optimization and Applications* 90, 881–910, 2025\
    [[publication](https://doi.org/10.1007/s10589-024-00646-9)] [[preprint](https://arxiv.org/abs/2303.16394)]
  
-3. **Weak convexity and approximate subdifferentials**\
+3) **Weak convexity and approximate subdifferentials**\
    Wim Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal, *Journal of Optimization Theory and Applications* 203, 1686–1709, 2024\
    [[publication](https://doi.org/10.1007/s10957-024-02551-x)] [[preprint](https://optimization-online.org/?p=25318)]
    
-2. **A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods**\
+2) **A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods**\
    <u>Felipe Atenas</u>, Claudia Sagastizábal, Paulo JS Silva, and Mikhail Solodov. *SIAM Journal on Optimization* 33(1), 89-115, 2023\
    [[publication](https://doi.org/10.1137/21M1465445)] [[preprint](https://optimization-online.org/?p=18426)]
 
-1. **A Bundle-Like Progressive Hedging Algorithm**\
+1) **A Bundle-Like Progressive Hedging Algorithm**\
    <u>Felipe Atenas</u> and Claudia Sagastizábal. *Journal of Convex Analysis*, 30(2), 453-479, 2023\
    [[publication](https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm)] [[preprint](https://hal.science/hal-03738298/document)]
 
@@ -63,4 +63,11 @@ nav_order: 2
 ### Technical reports
 - **Impact of demand response programs in unit-commitment problems in energy optimization**\
   Caio Costa de Barros Pimentel Luke, Danielle Freitas, <u>Felipe Atenas</u>, Luigi Viola, Tiago Lino Bello, Claudia Sagastizábal, Juan Pablo Luna, André Luiz Diniz,    Carlos Henrique Sabóia, and Luı́s Fernando Cerqueira. *Mathematics in Industry Reports*, 2021\
+  [[report](https://www.cambridge.org/engage/miir/article-details/6114f74845805dcab985f079)]
+
+<ol reversed>
+  <li>First item (will be numbered 3)</li>
+  <li>Second item (will be numbered 2)</li>
+  <li>Third item (will be numbered 1)</li>
+</ol>
   
