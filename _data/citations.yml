@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-20'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
     citations: 45
@@ -14,7 +14,7 @@ papers:
     title: "Proximal decomposition methods for optimization problems with structure= M\xE9todos de decomposi\xE7\xE3o proximal para problemas de otimiza\xE7\xE3o com estrutura"
     year: '2023'
   PPBV5R8AAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 5
     title: Relocated Fixed-Point Iterations with Applications to Variable Stepsize Resolvent Splitting
     year: '2026'
   PPBV5R8AAAAJ:WF5omc3nYNoC:
