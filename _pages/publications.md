@@ -20,7 +20,7 @@ nav_order: 2
 
 - **A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka–Łojasiewicz condition**\
   <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
-  (available soon)
+  [[preprint](https://optimization-online.org/?p=36058)]
 
 - **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
   <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
@@ -58,7 +58,7 @@ nav_order: 2
     <i>Computational Optimization and Applications</i> 90, 881–910, 2025<br>
     [<a href="https://doi.org/10.1007/s10589-024-00646-9">publication</a>] [<a href="https://arxiv.org/abs/2303.16394">preprint</a>]<br></li>
   <li><strong>Weak convexity and approximate subdifferentials</strong><br>
-   Wim Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal<br>
+   Wim van Ackooij, <u>Felipe Atenas</u>, and Claudia Sagastizábal<br>
     <i>Journal of Optimization Theory and Applications</i> 203, 1686–1709, 2024<br>
     [<a href="https://doi.org/10.1007/s10957-024-02551-x">publication</a>] [<a href="https://optimization-online.org/?p=25318">preprint</a>]<br></li>
   <li><strong>A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods</strong><br>
