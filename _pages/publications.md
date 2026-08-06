@@ -20,27 +20,28 @@ nav_order: 2
 
 - **A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka–Łojasiewicz condition**\
   <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
-  [[preprint](https://optimization-online.org/?p=36058)]
+  Optimization Online preprint, 2026\
+  [<a href="https://optimization-online.org/?p=36058">preprint</a>]
 
 - **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
   <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
   *arXiv preprint* arXiv:2601.15531, 2026\
-  [[preprint](https://arxiv.org/abs/2601.15531)]
+  [<a href="https://arxiv.org/abs/2601.15531">preprint</a>]
 
 - **Shadow splitting methods for nonconvex optimisation: epi-approximation, convergence and saddle point avoidance**
   <u>Felipe Atenas</u>\
   *arXiv preprint* arXiv:2512.20433, 2025\
-  [[preprint](https://arxiv.org/abs/2512.20433)]
+  [<a href="https://arxiv.org/abs/2512.20433">preprint</a>]
 
 - **Linear convergence of relocated fixed-point iterations**\
   <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam\
   *arXiv preprint* arXiv:2512.12954, 2025\
-  [[preprint](https://arxiv.org/abs/2512.12954)]
+  [<a href="https://arxiv.org/abs/2512.12954">preprint</a>]
 
 - **A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization**\
   Jan Harold Alcantara and <u>Felipe Atenas</u>\
   To appear in *MATRIX Annals*\
-  [[preprint](https://arxiv.org/abs/2504.07364)]
+  [<a href="https://arxiv.org/abs/2504.07364">preprint</a>]
 
 ### Publications
 
