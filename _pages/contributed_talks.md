@@ -1,6 +1,7 @@
 # Contributed and seminar talks
 
 **Relocated fixed-point iteration and distributed splitting methods** [slides](https://drive.google.com/file/d/1gSfmYoKISq1eXPB3kNWJAtze8Ke0mjFR/view?usp=sharing)
+- Latin American Workshop on Optimization and Control (LAWOC) 2026 - Fundação Getulio Vargas, Rio De Janeiro, Brazil - July 2026
 - Annual Meeting of the Australian Mathematical Society 2025 - La Trobe University, Melbourne, Australia - December 2025
 - WOMBAT 2025 - University of Queensland, Brisbane, Australia - November 2025
 - Optimisation Days 2025 - University of New South Wales, Sydney, Australia - November 2025
