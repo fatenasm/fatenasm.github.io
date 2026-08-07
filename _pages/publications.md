@@ -49,7 +49,7 @@ nav_order: 2
   <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
     <i>SIAM Journal on Optimization</i>, 36(3), 1297-1325, 2026<br>
-    [<a href="https://doi.org/10.1137/25M1776810">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>]<br>  </li>
+    [<a href="https://doi.org/10.1137/25M1776810">publication</a>] [<a href="https://epubs.siam.org/eprint/K2YAHQPJPRXFSZAQUGWD/full">ePrint (free access)</a>] [<a href="https://doi.org/10.48550/arXiv.2507.07428">preprint</a>]<br>  </li>
   <li><strong>A distributed proximal splitting method with linesearch for locally Lipschitz gradients</strong><br>
    <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam<br> 
     <i>Journal of Global Optimization</i>, 2025<br>
