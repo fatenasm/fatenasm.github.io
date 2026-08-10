@@ -23,3 +23,5 @@ announcements:
 In March 2026, I joined the [Center for Mathematical Modeling (CMM)](https://www.cmm.uchile.cl) at Universidad de Chile as a postdoctoral researcher. Until recently, I was a Research Fellow in Optimisation at the School of Mathematics and Statistics of the University of Melbourne.
 
 My work focuses on optimisation theory and algorithms with applications in machine learning and operations research. I design and analyse decomposition methods for structured optimisation problems, namely, methods that exploit favourable structures by breaking large-scale models into smaller, more tractable pieces, and leverage on the underlying mathematical properties to recover proper, fitting solutions. I draw tools from nonlinear programming, variational analysis, convex optimisation, and stochastic programming.
+
+My email is fatenas@cmm.uchile.cl.
