@@ -9,7 +9,7 @@ calendar: false
 ---
 
 At Universidad Técnica Federico Santa María (Valparaiso, Chile), I am currently lecturing the following subject:
-- MAT279 Optimización No Lineal - Semester 2, 2026
+- [MAT279 Optimización No Lineal](https://matematica.usm.cl/wp-content/uploads/2018/09/MAT-279-Optimización-No-Lineal.pdf) - Semester 2, 2026
 
 At the University of Melbourne (Australia), I lectured the following subjects:
 - [MAST20018 Discrete Maths and Operations Research](https://handbook.unimelb.edu.au/2025/subjects/mast20018) - Semester 2, 2025
