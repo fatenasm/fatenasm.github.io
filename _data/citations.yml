@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-07'
+  last_updated: '2026-08-12'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
-    citations: 47
+    citations: 48
     title: A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods
     year: '2023'
   PPBV5R8AAAAJ:IjCSPb-OGe4C:
-    citations: 9
+    citations: 10
     title: "Understanding the Douglas\u2013Rachford splitting method through the lenses of Moreau-type envelopes"
     year: '2025'
   PPBV5R8AAAAJ:LkGwnXOMwfcC:
@@ -41,7 +41,11 @@ papers:
     citations: 10
     title: Weak convexity and approximate subdifferentials
     year: '2024'
+  PPBV5R8AAAAJ:roLk4NBRz8UC:
+    citations: 0
+    title: A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka-{\L} ojasiewicz condition
+    year: '2026'
   PPBV5R8AAAAJ:ufrVoPGSRksC:
-    citations: 4
+    citations: 5
     title: 'Shadow splitting methods for nonconvex optimisation: epi-approximation, convergence and saddle point avoidance'
     year: '2025'
