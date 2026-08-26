@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-26'
 papers:
   PPBV5R8AAAAJ:9yKSN-GCB0IC:
-    citations: 49
+    citations: 48
     title: A unified analysis of descent sequences in weakly convex optimization, including convergence rates for bundle methods
     year: '2023'
   PPBV5R8AAAAJ:IjCSPb-OGe4C:
