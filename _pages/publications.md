@@ -71,7 +71,7 @@ nav_order: 2
     [<a href="https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm">publication</a>] [<a href="https://hal.science/hal-03738298/document">preprint</a>]<br></li>
 </ol>
 
-### PhD Thesis
+<h2>PhD Thesis</h2>
 - **Proximal decomposition methods for optimization problems with structure**\
   <u>Felipe Atenas</u>, 2023\
   [<a href="https://hdl.handle.net/20.500.12733/14634">thesis</a>]
