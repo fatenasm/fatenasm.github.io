@@ -72,12 +72,12 @@ nav_order: 2
 </ol>
 
 ### PhD Thesis
-- **Proximal decomposition methods for optimization problems with structure** (Métodos de decomposição proximal para problemas de otimização com estrutura)\
+- **Proximal decomposition methods for optimization problems with structure**\
   <u>Felipe Atenas</u>, 2023\
-  [[thesis](https://hdl.handle.net/20.500.12733/14634)]
+  [<a href="https://hdl.handle.net/20.500.12733/14634">thesis</a>]
 
 ### Technical reports
 - **Impact of demand response programs in unit-commitment problems in energy optimization**\
   Caio Costa de Barros Pimentel Luke, Danielle Freitas, <u>Felipe Atenas</u>, Luigi Viola, Tiago Lino Bello, Claudia Sagastizábal, Juan Pablo Luna, André Luiz Diniz,    Carlos Henrique Sabóia, and Luı́s Fernando Cerqueira. *Mathematics in Industry Reports*, 2021\
-  [[report](https://www.cambridge.org/engage/miir/article-details/6114f74845805dcab985f079)]
+  [<a href="https://www.cambridge.org/engage/miir/article-details/6114f74845805dcab985f079">report</a>]
   
