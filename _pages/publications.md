@@ -38,14 +38,13 @@ nav_order: 2
   *arXiv preprint* arXiv:2512.12954, 2025\
   [<a href="https://arxiv.org/abs/2512.12954">preprint</a>]
 
-- **A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization**\
-  Jan Harold Alcantara and <u>Felipe Atenas</u>\
-  To appear in *MATRIX Annals*\
-  [<a href="https://arxiv.org/abs/2504.07364">preprint</a>]
-
 ### Publications
 
 <ol reversed class="double-spaced-list">
+  <li><strong>A relaxed version of Ryu’s three-operator splitting method for structured nonconvex optimization</strong><br>
+   Jan Harold Alcantara and <u>Felipe Atenas</u><br>
+    <i>MATRIX Annals, 2026<br>
+    [<a href="https://www.matrix-inst.org.au/wp_Matrix2016/wp-content/uploads/2025/2025_Lindstrom/Alcantara.pdf">pre-publication</a>] [<a href="https://arxiv.org/abs/2504.07364">preprint</a>]
   <li><strong>Relocated fixed-point iterations with applications to variable stepsize resolvent splitting</strong><br>
    <u>Felipe Atenas</u>, Heinz H Bauschke, Minh N Dao, and Matthew K Tam<br>
     <i>SIAM Journal on Optimization</i>, 36(3), 1297-1325, 2026<br>
