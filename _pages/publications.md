@@ -68,10 +68,9 @@ nav_order: 2
   <li><strong>A bundle-like progressive hedging algorithm</strong><br>
    <u>Felipe Atenas</u> and Claudia Sagastizábal<br>
     <i>Journal of Convex Analysis</i>, 30(2), 453-479, 2023<br>
-    [<a href="https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm">publication</a>] [<a href="https://hal.science/hal-03738298/document">preprint</a>]<br></li>
-</ol>
+    [<a href="https://www.heldermann.de/JCA/JCA30/JCA302/jca30027.htm">publication</a>] [<a href="https://hal.science/hal-03738298/document">preprint</a>]<br></li></ol>
 
-<h2>PhD Thesis</h2>
+<h3>PhD Thesis</h3>
 - **Proximal decomposition methods for optimization problems with structure**\
   <u>Felipe Atenas</u>, 2023\
   [<a href="https://hdl.handle.net/20.500.12733/14634">thesis</a>]
