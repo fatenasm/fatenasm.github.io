@@ -28,10 +28,10 @@ nav_order: 2
   *arXiv preprint* arXiv:2601.15531, 2026\
   [<a href="https://arxiv.org/abs/2601.15531">preprint</a>]
 
-- **Shadow splitting methods for nonconvex optimisation: epi-approximation, convergence and saddle point avoidance**
+- **Splitting methods for nonconvex optimisation: convergence and saddle point avoidance through shadow sequences**
   <u>Felipe Atenas</u>\
   *arXiv preprint* arXiv:2512.20433, 2025\
-  [<a href="https://arxiv.org/abs/2512.20433">preprint</a>]
+  [<a href="https://optimization-online.org/?p=25370">preprint</a>]
 
 - **Linear convergence of relocated fixed-point iterations**\
   <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam\
