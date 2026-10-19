@@ -18,6 +18,11 @@ nav_order: 2
 
 ### Preprints
 
+- **Primal-dual forward-reflected splitting with linesearch for distributed min-max problems under local Lipschitz smoothness**\
+  <u>Felipe Atenas</u>, Minh N. Dao, Matthew K. Tam, and David Torregrosa-Belén\
+  *arXiv preprint* arXiv:2610.23518, 2026\
+  [<a href="https://doi.org/10.48550/arXiv.2610.23518">preprint</a>]
+  
 - **A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka–Łojasiewicz condition**\
   <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
   Optimization Online preprint, 2026\
