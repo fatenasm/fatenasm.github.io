@@ -18,6 +18,11 @@ nav_order: 2
 
 ### Preprints
 
+- **Lower- and upper-C2 integrands: a structured class of functions for stochastic nonconvex optimization**\
+  <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
+  *arXiv preprint* arXiv:2610.37629, 2026\
+  [<a href="https://doi.org/10.48550/arXiv.2610.37629">preprint</a>]
+
 - **Primal-dual forward-reflected splitting with linesearch for distributed min-max problems under local Lipschitz smoothness**\
   <u>Felipe Atenas</u>, Minh N. Dao, Matthew K. Tam, and David Torregrosa-Belén\
   *arXiv preprint* arXiv:2610.23518, 2026\
