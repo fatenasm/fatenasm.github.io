@@ -33,11 +33,6 @@ nav_order: 2
   *arXiv preprint* arXiv:2610.23518, 2026\
   [<a href="https://doi.org/10.48550/arXiv.2610.23518">preprint</a>]
 
-- **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
-  <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
-  *arXiv preprint* arXiv:2601.15531, 2026 (accepted in OJMO)\
-  [<a href="https://arxiv.org/abs/2601.15531">preprint</a>]
-
 - **Splitting methods for nonconvex optimisation: convergence and saddle point avoidance through shadow sequences**
   <u>Felipe Atenas</u>\
   *arXiv preprint* arXiv:2512.20433, 2025\
@@ -47,6 +42,13 @@ nav_order: 2
   <u>Felipe Atenas</u>, Farhana Ahmed Simi, and Matthew K Tam\
   *arXiv preprint* arXiv:2512.12954, 2025\
   [<a href="https://arxiv.org/abs/2512.12954">preprint</a>]
+
+### Accepted for publication
+
+- **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
+  <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
+  *arXiv preprint* arXiv:2601.15531, 2026 (accepted in OJMO)\
+  [<a href="https://arxiv.org/abs/2601.15531">preprint</a>]
 
 ### Publications
 
