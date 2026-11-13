@@ -23,7 +23,7 @@ nav_order: 2
   Optimization Online preprint, 2026\
   [<a href="https://optimization-online.org/?p=36058">preprint</a>]
 
-- **Lower- and upper-C2 integrands: a structured class of functions for stochastic nonconvex optimization**\
+- **Variational properties of lower- and upper-$C^2$ integrands for stochastic optimization and machine learning**\
   <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
   *arXiv preprint* arXiv:2610.37629, 2026\
   [<a href="https://doi.org/10.48550/arXiv.2610.37629">preprint</a>]
