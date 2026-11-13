@@ -18,6 +18,11 @@ nav_order: 2
 
 ### Preprints
 
+- **A line search proximal subgradient method for nonconvex stochastic optimization**\
+  <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
+  Optimization Online preprint, 2026\
+  [<a href="https://optimization-online.org/?p=36058">preprint</a>]
+
 - **Lower- and upper-C2 integrands: a structured class of functions for stochastic nonconvex optimization**\
   <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
   *arXiv preprint* arXiv:2610.37629, 2026\
@@ -27,11 +32,6 @@ nav_order: 2
   <u>Felipe Atenas</u>, Minh N. Dao, Matthew K. Tam, and David Torregrosa-Belén\
   *arXiv preprint* arXiv:2610.23518, 2026\
   [<a href="https://doi.org/10.48550/arXiv.2610.23518">preprint</a>]
-  
-- **A proximal subgradient method for nonconvex stochastic optimization under the Kurdyka–Łojasiewicz condition**\
-  <u>Felipe Atenas</u>, Alejandro Jofré, Pedro Pérez-Aros, and David Torregrosa-Belén\
-  Optimization Online preprint, 2026\
-  [<a href="https://optimization-online.org/?p=36058">preprint</a>]
 
 - **Variable stepsize distributed forward-backward splitting methods as relocated fixed-point iterations**\
   <u>Felipe Atenas</u>, Minh N Dao, and Matthew K Tam\
